@@ -12,9 +12,9 @@
   
 - **Purpose of each Report:**
   
--   **Customer and Division Report helps evaluate the sales activities on Customer and division level respectively.Identifying the high performers
+-   Customer and Division Report helps evaluate the sales activities on Customer and division level respectively.Identifying the high performers
   provide them greater discount , increase sale quantity/stocks,.Indentifying the low performers to determine where improvements are required.
--   **Market vs Target Report help determine where is the business standing in achieving their targets and how/where they can improve.Also,
+-   Market vs Target Report help determine where is the business standing in achieving their targets and how/where they can improve.Also,
   potential buisness expansion oppurtunities in countries.
 
   ## Financial Reports :
