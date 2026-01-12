@@ -10,7 +10,7 @@
  -  **2.** _[Division Perfomance Report](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Division%20Performance%20Report.pdf)_
 -   **3.** _[Market Performance Report against Target Estimate](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/Market%20Performance%20vs%20Target.pdf)_
   
-- **Purpose of each Report:**
+- **Purpose of Reports:**
   
 -   Customer and Division Report helps evaluate the sales activities on Customer and division level respectively.Identifying the high performers
   provide them greater discount , increase sale quantity/stocks,.Indentifying the low performers to determine where improvements are required.
@@ -23,13 +23,10 @@
   
 - **Reports:**
   
-    **1.** Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_
-    **2.** Profit and Loss (P&L) reports by _[Markets](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20for%20Markets.pdf)_
+_    **1.** Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Years.pdf)_ & _[Months](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)_
+ _   **2.** Profit and Loss (P&L) reports by _[Markets](https://github.com/mandeep-analyst/Analytics_with_Excel/blob/main/P%26L%20Statement%20for%20Markets.pdf)_
   
-- **Purpose of each Report:**
+- **Purpose of Reports:**
   
--   **Customer and Division Report helps evaluate the sales activities on Customer and division level respectively.Identifying the high performers
-  provide them greater discount , increase sale quantity/stocks,.Indentifying the low performers to determine where improvements are required.
--   **Market vs Target Report help determine where is the business standing in achieving their targets and how/where they can improve.Also,
-  potential buisness expansion oppurtunities in countries.
+-   P&L report helps evaluate the financial performance in this case we are looking into reports per fiscal year,month and market respectively.This aids in decision making,communicating with the stakeholders,budgeting and forecasting.
   
